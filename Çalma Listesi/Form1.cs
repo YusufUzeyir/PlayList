@@ -65,7 +65,7 @@ namespace Çalma_Listesi
 
         private void linkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            Process.Start("https://github.com/YusufUzeyir+");
+            Process.Start("https://github.com/YusufUzeyir");
         }
     }
 }
