@@ -52,6 +52,11 @@ namespace Çalma_Listesi
                 şarkı = "https://www.youtube.com/watch?v=GlKypWn3WLk&ab_channel=Ldrdo-Topic";
                 Process.Start(şarkı);
             }
+            else if (comboBox1.Text=="Vurdum En Dibe Kadar")
+            {
+                şarkı = "https://www.youtube.com/watch?v=eyYy1c09dxg&ab_channel=netdm%C3%BCzik";
+                Process.Start(şarkı);
+            }
             else
             {
                 MessageBox.Show("Şarkı Seçilmedi","Bilgi",MessageBoxButtons.OK,MessageBoxIcon.Error);

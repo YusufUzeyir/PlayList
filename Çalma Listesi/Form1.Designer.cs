@@ -47,7 +47,8 @@
             "No Rival",
             "Primo Victoria",
             "Sweet Dreams",
-            "W.Monroe"});
+            "W.Monroe",
+            "Vurdum En Dibe Kadar"});
             this.comboBox1.Location = new System.Drawing.Point(46, 82);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(149, 24);
